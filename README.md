@@ -1,7 +1,3 @@
-Certainly! Here's an updated README for your repository, including explanations for the scripts and excluding any contribution or installation instructions:
-
----
-
 # Simple UP-Comm
 
 Simple UP-Comm is a Java-based project showcasing unidirectional UDP communication between a client and a server. The repository consists of two main components, the client, and the server, each residing in their respective directories.
