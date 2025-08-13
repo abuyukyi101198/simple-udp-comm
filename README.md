@@ -1,6 +1,6 @@
-# Simple UP-Comm
+# Simple UDP-Comm
 
-Simple UP-Comm is a Java-based project showcasing unidirectional UDP communication between a client and a server. The repository consists of two main components, the client, and the server, each residing in their respective directories.
+Simple UDP-Comm is a Java-based project showcasing unidirectional UDP communication between a client and a server. The repository consists of two main components, the client, and the server, each residing in their respective directories.
 
 ## Project Structure
 
